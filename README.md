@@ -1,4 +1,4 @@
-<h1 style="aling:center">Register system of books(Portuguese)</h1>
+<h1 style="aling:center">Register system of books</h1>
 
 The project was created to enfazise and practice languages programming and web site structure, being that, the language PHP was used to 
 construct a connection with the database MySql and send informations which has typed in the interface which has two fields: the Client and books. 
