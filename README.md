@@ -18,6 +18,6 @@ The arquive **index.php** consists in a simple screen maded with stylization **C
 <h3>Interface</h3>
 
 <strong><p align="center">
-  ![Screenshot 2023-02-17 142810](https://user-images.githubusercontent.com/125213163/219749763-1ecc693a-8c13-4ba7-87d5-5e77b55e40a8.png)
+  ![Screenshot 2023-02-17 142810](https://user-images.githubusercontent.com/125213163/219960620-eca284ad-6140-4272-94b5-b09684be7e89.gif)
 </p></strong>
 
