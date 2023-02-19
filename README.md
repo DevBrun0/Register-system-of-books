@@ -11,7 +11,7 @@ So that no errors occur in the database, that insformations are sending simultan
   index.php
 </h2></strong>
 
-The arquive **index.php** consists in a simple screen maded with stylization **CSS3**, in the background of interface the code **HTML5** build a connection beside the **processa.php**. Using the **CSS3** it was thought for background page the color purple, and contrast of your letters whitesmoke.
+The archive **index.php** consists in a simple screen maded with stylization **CSS3**, in the background of interface the code **HTML5** build a connection beside the **processa.php**. Using the **CSS3** it was thought for background page the color purple, and contrast of your letters whitesmoke.
 
 <br>
 
@@ -21,3 +21,10 @@ The arquive **index.php** consists in a simple screen maded with stylization **C
   ![Screenshot 2023-02-17 142810](https://user-images.githubusercontent.com/125213163/219960620-eca284ad-6140-4272-94b5-b09684be7e89.gif)
 </p></strong>
 
+<br>
+
+<strong><h2 align="center">
+  coneccao.php
+</h2></strong>
+
+The archive **coneccao.php** 
