@@ -11,7 +11,7 @@ So that no errors occur in the database, that insformations are sending simultan
   index.php
 </h2></strong>
 
-The arquive **index.php** consists in a simple screen maded with stylization **CSS3**, in the background of interface the code **HTML5** build a connection beside the **processa.php**.
+The arquive **index.php** consists in a simple screen maded with stylization **CSS3**, in the background of interface the code **HTML5** build a connection beside the **processa.php**. Using the **CSS3** it was thought for background page the color purple, and contrast of your letters whitesmoke.
 
 <br>
 
