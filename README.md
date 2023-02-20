@@ -27,4 +27,28 @@ The archive **index.php** consists in a simple screen maded with stylization **C
   coneccao.php
 </h2></strong>
 
-The archive **coneccao.php** 
+The work of linking the PHP to SQL is all construct by **coneccao.php**, this archive has a simple(but important) function to establish connectivity during send of informations to database. In additionally, was utilize a standard code below to create this connection.
+
+```php
+
+$servername = "localhost";
+$username = "yourusername";
+$password = "yourpassword";
+$dbname = "yourdatabase";
+
+// Create a PDO instance
+try {
+  $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
+  // Set the PDO error mode to exception
+  $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+  echo "Connected successfully";
+} catch(PDOException $e) {
+  echo "Connection failed: " . $e->getMessage();
+}
+
+```
+<br>
+
+<strong><h2 align="center">
+  processa.php
+</h2></strong>
