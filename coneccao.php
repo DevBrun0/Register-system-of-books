@@ -6,7 +6,7 @@ $user = "root"; #Nome do usuário
 
 $pass = "";   #Senha do usuário
 
-$dbname = "quicken_venda_de_livros";
+$dbname = "register_books_database";
 
 
 try{
