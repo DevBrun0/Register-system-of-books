@@ -52,3 +52,5 @@ try {
 <strong><h2 align="center">
   processa.php
 </h2></strong>
+
+The processa.php incorporate the back-end action of project, this archive receive what was typed in the interface and send that informations to the **register_books_database**, by the register button all of data is colleted by a variable and sent simultaneously to the directory. Quickly, the details are related in the database by a foreing key, in the final of code, the program display a message if registered or not. 
