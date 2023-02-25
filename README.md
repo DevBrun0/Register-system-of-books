@@ -54,3 +54,14 @@ try {
 </h2></strong>
 
 The processa.php incorporate the back-end action of project, this archive receive what was typed in the interface and send that informations to the **register_books_database**, by the register button all of data is colleted by a variable and sent simultaneously to the directory. Quickly, the details are related in the database by a foreing key, in the final of code, the program display a message if registered or not. 
+
+<br>
+
+<strong><h2 align="center">
+  installation 
+</h2></strong>
+
+For everything to go well, its recommended which you follow these two steps below:
+* Certify which you have a web server in your machine, if not, install that one.
+* Fet the project in the folder of web server inside the file **htdocs**.
+* Finally, open the project with a preference **IDE**.
