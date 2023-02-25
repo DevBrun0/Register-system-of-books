@@ -61,7 +61,7 @@ The processa.php incorporate the back-end action of project, this archive receiv
   installation 
 </h2></strong>
 
-For everything to go well, its recommended which you follow these two steps below:
+For everything to go well, its recommended which you follow these three steps below:
 * Certify which you have a web server in your machine, if not, install that one.
 * Fet the project in the folder of web server inside the file **htdocs**.
 * Finally, open the project with a preference **IDE**.
