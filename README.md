@@ -27,7 +27,7 @@ The archive **index.php** consists in a simple screen maded with stylization **C
   coneccao.php
 </h2></strong>
 
-The work of linking the PHP to SQL is all construct by **coneccao.php**, this archive has a simple(but important) function to establish connectivity during send of informations to database. In additionally, was utilize a standard code below to create this connection.
+The work of linking the PHP to SQL is all construct by **coneccao.php**, this archive has a simple(but important) function to establish connectivity during send of informations to database. For the script keeps clean, was utilize a standard code below to create this connection.
 
 ```php
 
